@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>admin</title>
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>  
+<!-- 	<script type="text/javascript" charset="utf-8">
+        $(document).ready(function() {
+            $('form#emit').submit(function(event) {
+            	console.log("in form submit");
+            	var message = $('emit_data').val();
+            	console.log(message);
+            	$.ajax({
+           	 			url: '/publish',
+            			data: message,
+            			type: 'POST',
+            			success: function(response) {
+                		console.log(response);
+            		},
+            			error: function(error) {
+                		console.log(error);
+            		}
+        		});
+            });
+        });
+    </script> -->
+</head>
+<body>
+<form id="emit" method="get" action="/publish" name="emit">
+        <input type="text" name="message" id="message" placeholder="Message">
+        <input type="submit" value="Echo">
+    </form>
+</body>
+</html>

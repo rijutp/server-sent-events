@@ -1,0 +1,404 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Us",
+				"UserMixin"
+			],
+			[
+				"co",
+				"Column"
+			],
+			[
+				"use",
+				"users"
+			],
+			[
+				"m",
+				"Model"
+			],
+			[
+				"R",
+				"Role"
+			],
+			[
+				"fl",
+				"flash"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"N",
+				"NameForm"
+			],
+			[
+				"r",
+				"route"
+			],
+			[
+				"s",
+				"SubmitField"
+			],
+			[
+				"S",
+				"StringField"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"a",
+				"app"
+			],
+			[
+				"I",
+				"Items"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"login",
+				"login_manager"
+			],
+			[
+				"sh",
+				"show"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"not",
+				"notification"
+			],
+			[
+				"jso",
+				"json"
+			],
+			[
+				"it",
+				"itemname"
+			],
+			[
+				"b",
+				"bill_item_serial"
+			],
+			[
+				"or",
+				"order_no"
+			],
+			[
+				"ba",
+				"baseBill_no"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"d",
+				"dumps"
+			],
+			[
+				"t",
+				"timestamp"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"De",
+				"designation"
+			],
+			[
+				"req",
+				"requests"
+			],
+			[
+				"o",
+				"on_delete"
+			],
+			[
+				"g",
+				"Group"
+			],
+			[
+				"f",
+				"ForeignKey"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"que",
+				"question_id"
+			],
+			[
+				"qu",
+				"question_id"
+			],
+			[
+				"q",
+				"question_id"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"c",
+				"context"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"last_filter": "convert",
+		"selected_items":
+		[
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rijoos/Downloads/flasky/manage.py",
+		"/home/rijoos/Downloads/free/app/models.py",
+		"/home/rijoos/Downloads/free/app/auth/views.py",
+		"/home/rijoos/Downloads/free/app/auth/__init__.py",
+		"/home/rijoos/Downloads/free/app/main/__init.py__",
+		"/home/rijoos/.local/share/Trash/files/onlineshop 2/config.py",
+		"/home/rijoos/Downloads/free/forms.py",
+		"/home/rijoos/Downloads/free/hello.py",
+		"/home/rijoos/.local/share/Trash/files/free/templates/base.html",
+		"/home/rijoos/.local/share/Trash/files/free/hello.py",
+		"/home/rijoos/.local/share/Trash/files/free/templates/index.html",
+		"/home/rijoos/.local/share/Trash/files/free/templates/form.html",
+		"/home/rijoos/.local/share/Trash/files/free/app.py",
+		"/home/rijoos/.local/share/Trash/files/free/templates/app.py",
+		"/home/rijoos/.local/share/Trash/files/free/forms.py",
+		"/home/rijoos/.local/share/Trash/files/onlineshop 2/app/views.py",
+		"/home/rijoos/Downloads/onlineshop/app/views.py",
+		"/home/rijoos/Downloads/onlineshop/app/models.py",
+		"/home/rijoos/Downloads/onlineshop/db.py",
+		"/home/rijoos/Downloads/onlineshop/app/__init__.py",
+		"/home/rijoos/Downloads/onlineshop/config.py",
+		"/home/rijoos/Downloads/onlineshop/app/templates/forms/user.html",
+		"/home/rijoos/Downloads/onlineshop/app/forms.py",
+		"/home/rijoos/Downloads/onlineshop/app/templates/forms/register.html",
+		"/home/rijoos/Downloads/onlineshop/app/templates/forms/login.html",
+		"/home/rijoos/Downloads/onlineshop/app/templates/forms/item.html",
+		"/home/rijoos/Downloads/free/templates/copy.html",
+		"/home/rijoos/Downloads/onlineshop/error.log",
+		"/home/rijoos/Downloads/onlineshop/app/templates/login.html",
+		"/home/rijoos/Downloads/onlineshop/app/templates/register.html",
+		"/home/rijoos/Downloads/onlineshop/app/templates/base.html",
+		"/home/rijoos/Downloads/onlineshop/app/static/css/style.css",
+		"/home/rijoos/Downloads/onlineshop/app/templates/home.html",
+		"/home/rijoos/Downloads/jinja/macro.py",
+		"/home/rijoos/Downloads/jinja/w.py",
+		"/home/rijoos/Downloads/notify.py",
+		"/home/rijoos/Downloads/notify.txt",
+		"/home/rijoos/Downloads/app(4).py",
+		"/home/rijoos/Downloads/server_sent_events/app.py",
+		"/home/rijoos/Downloads/new/templates/notify.html",
+		"/home/rijoos/riju/firstexam/base/models(1).py",
+		"/home/rijoos/onlineexam/onlineexam/models.py",
+		"/home/rijoos/riju/mypolls/url",
+		"/home/rijoos/riju/mypolls/views.py",
+		"/home/rijoos/riju/mypolls/url.py",
+		"/home/rijoos/riju/riju/settings.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get_user_model",
+			"CharField"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
